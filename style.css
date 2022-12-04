@@ -48,4 +48,13 @@ body {
     align-items:center;
     height: 100%;
    }
+   p:hover{
+    color: aqua;
+   }
+   a:hover{
+    color: aqua;
+   }
+   img{
+    border:10px  lime double;
+   }
    
